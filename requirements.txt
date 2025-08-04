@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+pydantic
+python-dotenv
+sentence-transformers
+scikit-learn
+PyMuPDF
+google-generativeai
